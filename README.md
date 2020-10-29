@@ -14,3 +14,27 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Features
+<ul>
+  <li>Users can create post where users can add picture, title, author name and description</li>
+  <li>Picture can add form users device file explorer and also form gallery</li>
+  <li>Users can upload post</li>
+  <li>Users can watch their post</li>
+</ul> 
+
+# Dependencies
+<ul>
+  <li>cloud_firestore</li>
+  <li>image_picker</li>
+  <li>firebase_storage</li>
+  <li>random_string</li>
+  <li>cached_network_image</li>
+  <li>curved_navigation_bar</li>
+  <li>modal_progress_hud</li>
+  <li>form_field_validator</li>
+</ul> 
+
+# Demo
+## Firebase Authentication
+<img src="Screenshots/Blog Home.jpg" width=250>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/Blog Create.jpg" width=250>&nbsp;&nbsp;<img src="Screenshots/Blog Logout.jpg" width=250>
