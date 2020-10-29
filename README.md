@@ -36,5 +36,11 @@ samples, guidance on mobile development, and a full API reference.
 </ul> 
 
 # Demo
-## Firebase Authentication
-<img src="Screenshots/Blog Home.jpg" width=250>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/Blog Create.jpg" width=250>&nbsp;&nbsp;<img src="Screenshots/Blog Logout.jpg" width=250>
+## Home
+<img src="Screenshots/Blog Home.jpg" width=250>
+
+## Create
+<img src="Screenshots/Blog Create.jpg" width=250>
+
+## Exit
+<img src="Screenshots/Blog Logout.jpg" width=250>
